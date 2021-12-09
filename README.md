@@ -1,10 +1,10 @@
 # Face Detector 
 
-##### Como usar: 
+##### Como usar:     
 
-1: Faça o clone do projeto
-2: Rode 'pip install opencv-python'
-3: Rode o projeto
+1: Faça o clone do projeto  
+2: Rode 'pip install opencv-python'  
+3: Rode o projeto  
 
 Obs.: Você precisa de uma webcam para poder visualizar
 
